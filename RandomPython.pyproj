@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b391abb3-dbab-4678-84b2-edb2dddfd090</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>RandomPython.py</StartupFile>
+    <StartupFile>wordsearchsolver.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="RandomPython.py" />
+    <Compile Include="wordsearchsolver.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
